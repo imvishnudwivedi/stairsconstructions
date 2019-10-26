@@ -44,7 +44,7 @@ Main Components
 	position: relative;
 	padding: 0px;
 	border-radius: 50px;
-    border: 2px solid #98cb2b;
+    border: 2px solid #7B3F00;
 }
 
 .cd-pricing-switcher .fieldset::before{
@@ -102,7 +102,7 @@ Main Components
     left: -1px;
     height: 34px;
     width: 40px;
-	background-color: #98cb2b;
+	background-color: #7B3F00;
 	border-radius: 50em;
 	-webkit-transition: -webkit-transform 0.5s;
 	transition: -webkit-transform 0.5s;
@@ -111,7 +111,7 @@ Main Components
 }
 
 .cd-pricing-switcher.pricing-switcher-tow .cd-switch{
-    background-color: #98cb2b;
+    background-color: #7B3F00;
 }
 
 .cd-pricing-switcher input[type="radio"]:checked + label + .cd-switch,
